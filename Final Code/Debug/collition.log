@@ -1,0 +1,17 @@
+﻿Build started 28-Sep-20 2:04:58 PM.
+     1>Project "E:\1.2 SD LAB Project\Final Saviour Project\Final Code(1)-20200923T222630Z-001\Final Code(1)\collition-20200921T075409Z-001\collition\Final Code\collition.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WEEK 3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         collition.vcxproj -> E:\1.2 SD LAB Project\Final Saviour Project\Final Code(1)-20200923T222630Z-001\Final Code(1)\collition-20200921T075409Z-001\collition\Final Code\Debug\WEEK 3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\WEEK 3.unsuccessfulbuild".
+         Touching "Debug\WEEK 3.lastbuildstate".
+     1>Done Building Project "E:\1.2 SD LAB Project\Final Saviour Project\Final Code(1)-20200923T222630Z-001\Final Code(1)\collition-20200921T075409Z-001\collition\Final Code\collition.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
